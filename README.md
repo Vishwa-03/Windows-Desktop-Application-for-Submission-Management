@@ -59,7 +59,7 @@ git clone https://github.com/your-username/repository-name.git
 
 4. **Start the Backend Server:**
 
-- Clone the backend repository from [Backend Repository](https://github.com/your-backend-username/backend-repository).
+- Clone the backend repository from [Backend Repository](https://github.com/Vishwa-03/Slidely-task-2-backend).
 - Follow the backend README for installation and startup instructions.
 
 Ensure the backend server is running at `http://localhost:3000`.
