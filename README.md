@@ -1,4 +1,4 @@
-# Windows Desktop Application for Submission Management
+# Windows Desktop Application for Submission Management (Slidely Task 2 - FrontEnd)
 
 This Windows desktop application allows users to create new submissions with name, email, phone number, GitHub link, and a stopwatch feature. It also provides functionality to view, edit, delete, and search submissions stored on a backend server.
 
