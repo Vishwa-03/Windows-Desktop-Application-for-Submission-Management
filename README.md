@@ -14,16 +14,22 @@ This Windows desktop application allows users to create new submissions with nam
 - [Keyboard Shortcuts](#keyboard-shortcuts)
 
 ## Features
+-![main form](https://github.com/Vishwa-03/Slidely-Task-2-FrontEnd/assets/103726736/95c07bf7-2479-41b3-9777-447d39e4ef4b)
 
 - **Create New Submission:**
   - Input fields for Name, Email, Phone Number, GitHub link.
   - Stopwatch functionality to track time spent.
   - Submit button to send data to the backend.
+  - ![create submission form](https://github.com/Vishwa-03/Slidely-Task-2-FrontEnd/assets/103726736/96e2a214-da04-46e3-bdba-71f7112152f4)
+
 
 - **View Submissions:**
   - Navigation through submitted forms using "Previous" and "Next" buttons.
   - Edit and delete functionalities for submitted forms.
   - Search submissions by email.
+  - ![view submission form](https://github.com/Vishwa-03/Slidely-Task-2-FrontEnd/assets/103726736/fece4f33-8c38-4bb6-b45d-fe7f25086cf4)
+
+    
 
 ## Getting Started
 
