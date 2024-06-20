@@ -12,8 +12,6 @@ This Windows desktop application allows users to create new submissions with nam
   - [Creating Submissions](#creating-submissions)
   - [Viewing Submissions](#viewing-submissions)
 - [Keyboard Shortcuts](#keyboard-shortcuts)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -35,9 +33,15 @@ To run this application, you need to have the following installed:
 
 - Visual Studio (version)
 - .NET Framework (version)
-- Node.js and npm (for backend server)
 
 ### Installation
+
+Follow these steps to install and run the application:
+
+1. **Clone the repository:**
+
+git clone https://github.com/your-username/repository-name.git
+
 2. **Open the project in Visual Studio:**
 
 - Navigate to the project folder and open the solution file (.sln) in Visual Studio.
@@ -49,18 +53,8 @@ To run this application, you need to have the following installed:
 
 4. **Start the Backend Server:**
 
-- Navigate to the `backend` directory in the cloned repository.
-- Install dependencies:
-
-  ```
-  npm install
-  ```
-
-- Start the server:
-
-  ```
-  npm start
-  ```
+- Clone the backend repository from [Backend Repository](https://github.com/your-backend-username/backend-repository).
+- Follow the backend README for installation and startup instructions.
 
 Ensure the backend server is running at `http://localhost:3000`.
 
@@ -96,26 +90,3 @@ Ensure the backend server is running at `http://localhost:3000`.
 - Ctrl + D: Delete Submission
 - Ctrl + E: Edit Submission
 - Ctrl + F: Search by Email
-
-## Contributing
-
-Contributions are welcome! Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/NewFeature`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature/NewFeature`).
-5. Create a new Pull Request.
-
-Please ensure to follow coding standards, write clear commit messages, and document any significant changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-
-Follow these steps to install and run the application:
-
-1. **Clone the repository:**
-
-git clone https://github.com/your-username/repository-name.git
