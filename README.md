@@ -46,7 +46,7 @@ Follow these steps to install and run the application:
 
 1. **Clone the repository:**
 
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/Vishwa03/Slidely-Task-2-FrontEnd
 
 2. **Open the project in Visual Studio:**
 
